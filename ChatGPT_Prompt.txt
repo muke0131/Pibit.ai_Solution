@@ -1,0 +1,83 @@
+Parse my resume into JSON format 
+
+Resume:
+
+Mukul Nayak
+mukulnayak2004@gmail.com | ms0690@srmist.edu.in | 7668503465 | Muzafarnagar, Uttar Pradesh, India
+Summary
+I am Mukul Nayak, a Computer Science and Engineering student with experience in Web Development, Competitive 
+Programming, and Machine Learning. Passionate about technology and eager to apply skills in a Sofware Developer role.
+Education
+SRM Institute of Science & Technology, Ghaziabad Aug 2021 - Present
+B.Tech · Computer Science and Engineering - Artifcial Intelligence & Machine 
+Learning
+9.82
+SD Public School, Muzaffarnagar, Uttar Pradesh Apr 2020 - Jul 2021
+12th · CBSE 95.6
+Red Rose Public School, Rohana, Muzaffarnagar, Uttar Pradesh Apr 2018 - May 2019
+10th · CBSE 93
+Skills
+Python, C++, C, Node.js, React.js, Javascript, HTML, CSS, SQL, GIT, Machine Learning
+Experience
+PWC Acceleration Center Feb 2024 - Jul 2024
+Cloud & Digital Analytics Launchpad Program · Internship Trainee · Internship Remote
+As part of the PWC launchpad program, I engaged in a platform-based Comprehensive Learning Program covering IT 
+Fundamentals, RDBMS, Python Programming, and Data Engineering, signifcantly enhancing my technical skills and 
+knowledge.
+AICTE | Certifcate Link May 2023 - Jul 2023
+AI-ML Virtual Internship · AIML Intern · Internship Remote
+Completed a 10-week AI-ML virtual internship focusing on advanced concepts in artifcial intelligence and machine 
+learning, supported by AWS Academy.
+Projects
+EasyPay - MERN based Payment Dashboard (Group Project) | Website Link Mar 2024 - Mar 2024
+SRMIST · React.js, Node.js, Express.js, MongoDB, Javascript Full Stack Web Development
+Developed a Payment Dashboard using MERN Stack.
+Github link: github.com/muke0131/Webminds-2
+WeatherNow - API based weather Application | Website Link Jun 2023 - Jun 2023
+SRMIST · React.js, Node.js, API Web Development
+Provides current weather details for cities globally.
+Github link: github.com/muke0131/WeatherNow
+Portfolio website | Website Link Nov 2023 - Nov 2023
+SRMIST · HTML, CSS, JS Web Development
+Created a personal portfolio website.
+Awards
+1st Rank Holder in the B.Tech CSE-AIML 2nd Year. | Certifcate Link Aug 2023
+SRMIST · SRM Institute of Science and Technology
+Tests
+GATE CSE 2024 | Certifcate Link Feb 2024
+SRMIST · 483
+AIR - 6317
+Competitions
+Code Cubicles (Hackathon organized by GeekRoom) | Certifcate Link May 2024
+Top 10 · Geek Room
+Our team secured the position among Top 10 teams.
+ZS Campus Beats Tech Challenge Apr 2024
+Top 125 · ZS Associates
+Our team secured the Position among top 125 teams all over India.
+Tech Escape Room | Certifcate Link Apr 2024
+Second · Innovate'24 SRM NCR
+Code-Off-Sight | Certifcate Link Apr 2024
+Third · Innovate'24 SRM NCR
+Codyssey | Certifcate Link Mar 2024
+Third · GeeksForGeeks SRM NCR
+"Kodation 4.0" Competitive Programming Competition | Certifcate Link Feb 2024
+First · GeeksForGeeks SRM NCR
+HackFest Delhi/NCR Hackathon | Website Link Jan 2024
+_ · GeeksForGeeks
+We made a web application "HealthShield" using machine learning algorithms to predict Heart Disease and Diabetes.
+Github link: github.com/muke0131/HealthShield
+Certifcations
+Data Structures and Algorithms Master Course [Supreme 2.0] | Certifcate 
+Link
+May 2024 - 
+CodeHelp · CW2IGW35
+Data Base Management System | Certifcate Link Apr 2024 - 
+NPTEL · NPTEL24CS21S557900106
+Among top 1% students enrolled in the Course with a score of 84%.
+Introduction to Machine learning -IITKGP | Certifcate Link Oct 2023 - 
+NPTEL · NPTEL23CS87S35830403
+Among top 1% students enrolled in the Course with a score of 94%.
+Languages
+Hindi [Native Profciency], English [Professional Working Profciency]
+Links
+LinkedIn, GitHub, LeetCode
