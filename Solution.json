@@ -1,0 +1,164 @@
+{
+  "name": "Mukul Nayak",
+  "email": "mukulnayak2004@gmail.com",
+  "alternate_email": "ms0690@srmist.edu.in",
+  "phone": "7668503465",
+  "location": "Muzafarnagar, Uttar Pradesh, India",
+  "summary": "I am Mukul Nayak, a Computer Science and Engineering student with experience in Web Development, Competitive Programming, and Machine Learning. Passionate about technology and eager to apply skills in a Software Developer role.",
+  "education": [
+    {
+      "institution": "SRM Institute of Science & Technology, Ghaziabad",
+      "degree": "B.Tech",
+      "major": "Computer Science and Engineering - Artificial Intelligence & Machine Learning",
+      "dates": "Aug 2021 - Present",
+      "gpa": "9.82"
+    },
+    {
+      "institution": "SD Public School, Muzaffarnagar, Uttar Pradesh",
+      "degree": "12th",
+      "board": "CBSE",
+      "percentage": "95.6",
+      "dates": "Apr 2020 - Jul 2021"
+    },
+    {
+      "institution": "Red Rose Public School, Rohana, Muzaffarnagar, Uttar Pradesh",
+      "degree": "10th",
+      "board": "CBSE",
+      "percentage": "93",
+      "dates": "Apr 2018 - May 2019"
+    }
+  ],
+  "skills": [
+    "Python", "C++", "C", "Node.js", "React.js", "Javascript", "HTML", "CSS", "SQL", "GIT", "Machine Learning"
+  ],
+  "experience": [
+    {
+      "company": "PWC Acceleration Center",
+      "position": "Internship Trainee",
+      "dates": "Feb 2024 - Jul 2024",
+      "description": "Engaged in a platform-based Comprehensive Learning Program covering IT Fundamentals, RDBMS, Python Programming, and Data Engineering."
+    },
+    {
+      "company": "AICTE",
+      "position": "AI-ML Intern",
+      "dates": "May 2023 - Jul 2023",
+      "description": "Completed a 10-week AI-ML virtual internship focusing on advanced concepts in artificial intelligence and machine learning, supported by AWS Academy."
+    }
+  ],
+  "projects": [
+    {
+      "name": "EasyPay - MERN based Payment Dashboard (Group Project)",
+      "dates": "Mar 2024 - Mar 2024",
+      "description": "Developed a Payment Dashboard using MERN Stack.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "Javascript"],
+      "github_link": "github.com/muke0131/Webminds-2"
+    },
+    {
+      "name": "WeatherNow - API based weather Application",
+      "dates": "Jun 2023 - Jun 2023",
+      "description": "Provides current weather details for cities globally.",
+      "technologies": ["React.js", "Node.js", "API Web Development"],
+      "github_link": "github.com/muke0131/WeatherNow"
+    },
+    {
+      "name": "Portfolio website",
+      "dates": "Nov 2023 - Nov 2023",
+      "description": "Created a personal portfolio website.",
+      "technologies": ["HTML", "CSS", "JS Web Development"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st Rank Holder in the B.Tech CSE-AIML 2nd Year",
+      "dates": "Aug 2023",
+      "institution": "SRM Institute of Science and Technology"
+    }
+  ],
+  "tests": [
+    {
+      "name": "GATE CSE 2024",
+      "dates": "Feb 2024",
+      "score": "483",
+      "rank": "6317",
+      "institution": "SRM Institute of Science and Technology"
+    }
+  ],
+  "competitions": [
+    {
+      "name": "Code Cubicles (Hackathon organized by GeekRoom)",
+      "dates": "May 2024",
+      "position": "Top 10",
+      "organization": "Geek Room",
+      "description": "Our team secured the position among Top 10 teams."
+    },
+    {
+      "name": "ZS Campus Beats Tech Challenge",
+      "dates": "Apr 2024",
+      "position": "Top 125",
+      "organization": "ZS Associates",
+      "description": "Our team secured the position among top 125 teams all over India."
+    },
+    {
+      "name": "Tech Escape Room",
+      "dates": "Apr 2024",
+      "position": "Second",
+      "organization": "Innovate'24 SRM NCR"
+    },
+    {
+      "name": "Code-Off-Sight",
+      "dates": "Apr 2024",
+      "position": "Third",
+      "organization": "Innovate'24 SRM NCR"
+    },
+    {
+      "name": "Codyssey",
+      "dates": "Mar 2024",
+      "position": "Third",
+      "organization": "GeeksForGeeks SRM NCR"
+    },
+    {
+      "name": "Kodation 4.0 Competitive Programming Competition",
+      "dates": "Feb 2024",
+      "position": "First",
+      "organization": "GeeksForGeeks SRM NCR"
+    },
+    {
+      "name": "HackFest Delhi/NCR Hackathon",
+      "dates": "Jan 2024",
+      "organization": "GeeksForGeeks",
+      "description": "We made a web application 'HealthShield' using machine learning algorithms to predict Heart Disease and Diabetes.",
+      "github_link": "github.com/muke0131/HealthShield"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Data Structures and Algorithms Master Course [Supreme 2.0]",
+      "dates": "May 2024",
+      "provider": "CodeHelp",
+      "certificate_link": "CW2IGW35"
+    },
+    {
+      "title": "Database Management System",
+      "dates": "Apr 2024",
+      "provider": "NPTEL",
+      "certificate_link": "NPTEL24CS21S557900106",
+      "description": "Among top 1% students enrolled in the Course with a score of 84%."
+    },
+    {
+      "title": "Introduction to Machine Learning - IITKGP",
+      "dates": "Oct 2023",
+      "provider": "NPTEL",
+      "certificate_link": "NPTEL23CS87S35830403",
+      "description": "Among top 1% students enrolled in the Course with a score of 94%."
+    }
+  ],
+  "languages": {
+    "Hindi": "Native Proficiency",
+    "English": "Professional Working Proficiency"
+  },
+  "links": {
+    "LinkedIn": "linkedin.com/in/mukulnayak",
+    "GitHub": "github.com/muke0131",
+    "LeetCode": "leetcode.com/mukulnayak2004"
+  }
+}
